@@ -1,6 +1,6 @@
 # Portfolio — Corey Wade
 
-> **25 years enterprise infrastructure x AI/ML PhD candidate**
+> **25 years enterprise infrastructure x AI/ML PhD**
 > CCIE #14124 | CISSP | SOFAM Researcher
 
 A structured portfolio of **76+ AI+Infrastructure projects** spanning network operations, cybersecurity, and machine learning engineering. Each project ships with documentation, tests, Docker support, and CI/CD.
@@ -198,7 +198,7 @@ Technologies I'm investing in and why they matter for enterprise infrastructure.
 
 ## About
 
-**Corey A. Wade** — PhD candidate (AI + Cybersecurity), CISSP, retired CCIE #14124
+**Corey A. Wade** — PhD (AI + Cybersecurity), CISSP, retired CCIE #14124
 
 25 years of enterprise infrastructure experience (Cisco TAC, network architecture, security consulting) combined with current PhD research in AI-driven network defense. This portfolio demonstrates the ability to ship production-grade AI systems, not just prototype them.
 
